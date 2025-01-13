@@ -22,8 +22,8 @@ video {
 }
 @supports (-webkit-touch-callout: none) {
     video {
-        border-top: 4px solid #000000; 
-        border-bottom: 4px solid #000000; 
+        border-top: 20px solid #ffffff; 
+        border-bottom: 20px solid #ffffff; 
         border-left: none;
         border-right: none;
     }
